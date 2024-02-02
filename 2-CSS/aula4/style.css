@@ -1,0 +1,19 @@
+body {
+    background: #dfdfdf;
+}
+
+p{
+    color:rgb(34, 34, 34);
+}
+
+.foto{
+    width: 200px;
+    border: 4px outset #ffffff; /*shorthand*/
+    border-radius: 50%;
+    
+    /*border-radius: 50% 10% 30% 60%;*/
+   
+    /*border-width: 5px;
+    border-color: black;
+    border-style: solid;*/
+}
